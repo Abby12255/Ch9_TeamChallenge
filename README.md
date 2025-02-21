@@ -13,19 +13,19 @@ graph TD;
 
 #### Function Diagrams
 
-| `Main`    |               |  author     |
+| `Main`    |               |  Jullian and Abby    |
 | ------------------ | ------------- | ------------ |
 | `argument:type`    | takes input from the user for ____  |              |
 | `time:integer`     | calculates ______  | outputs ____             |
 | `name:string`      | takes input for name ___ | returns total |
 ***
-| `SortingFunction`    |               |     author   |
+| `SortingFunction`    |               |     Abby   |
 | ------------------ | ------------- | ------------ |
 | `argument:type`    | takes input from the user for ____  |              |
 | `time:integer`     | calculates ______  | outputs ____             |
 | `name:string`      | takes input for name ___ | returns total |
 ***
-| `AverageFunction`    |               |  author     |
+| `AverageFunction`    |               |  Jullian     |
 | ------------------ | ------------- | ------------ |
 | `argument:type`    | takes input from the user for ____  |              |
 | `time:integer`     | calculates ______  | outputs ____             |
