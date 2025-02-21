@@ -1,10 +1,10 @@
 # Ch9_TeamChallenge
 Abby and Jullian
 
-## <program_name> Description
+## Test_Score_Analyzer Description
 Here is where you describe what the program does
 
-### <program_name> Flowchart
+### Test_Score_Analyzer Flowchart
 ```mermaid
 graph TD;
   Main-->SortingFunction;
