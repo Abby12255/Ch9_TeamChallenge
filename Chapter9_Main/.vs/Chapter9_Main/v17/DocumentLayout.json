@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2010147\\Desktop\\Ch9_TeamChallenge\\Chapter9_Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06232729-7C03-4639-A4C7-D26DD5056972}|Chapter9_Main\\Chapter9_Main.vcxproj|C:\\Users\\2010147\\Desktop\\Ch9_TeamChallenge\\Chapter9_Main\\Chapter9_Main\\Chapter9_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{06232729-7C03-4639-A4C7-D26DD5056972}|Chapter9_Main\\Chapter9_Main.vcxproj|solutionrelative:Chapter9_Main\\Chapter9_Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chapter9_Main.cpp",
+              "DocumentMoniker": "C:\\Users\\2010147\\Desktop\\Ch9_TeamChallenge\\Chapter9_Main\\Chapter9_Main\\Chapter9_Main.cpp",
+              "RelativeDocumentMoniker": "Chapter9_Main\\Chapter9_Main.cpp",
+              "ToolTip": "C:\\Users\\2010147\\Desktop\\Ch9_TeamChallenge\\Chapter9_Main\\Chapter9_Main\\Chapter9_Main.cpp",
+              "RelativeToolTip": "Chapter9_Main\\Chapter9_Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T20:29:34.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
